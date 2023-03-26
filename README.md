@@ -1,5 +1,5 @@
-# GCPE-ReceiptExtractor
+# ReceiptExtractor
 
-Receipt extractor by [Lim Hui Ern](https://github.com/huiern214)
+Created by [Lim Hui Ern](https://github.com/huiern214)
 
 ![workflow](Workflow.png)
